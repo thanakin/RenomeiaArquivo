@@ -1,0 +1,4 @@
+# Criar um script para renomear arquivo config.ini
+# tenho 2 arquivo(config.ini-local e config.ini-remoto), um com configuração local e outro remoto
+# ao executar o script, deve renomear ambos de modo a trocar a conexao
+# sempre um deles sera config.ini e o outro podendo ter o sufixo "-local" ou "-remoto" ao final
